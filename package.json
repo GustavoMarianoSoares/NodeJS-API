@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "Primeira API de 2022 Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "testes":"nodemon app.js"
+  },
+  "author": "Gustavo Mariano",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
